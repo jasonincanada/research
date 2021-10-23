@@ -33,8 +33,8 @@
 ### Lenses
 
 [What you needa know about Yoneda: profunctor optics and the Yoneda lemma (functional pearl)](https://dl.acm.org/doi/10.1145/3236779) (2018)
-* Rendered the derivation of symmetric concrete lenses from p. 84:17 as an orbit diagram
-* Rendered the `zipWith3Grate` function from p. 84:23 as an orbit diagram
+* Rendered the derivation of symmetric concrete lenses from p. 84:17 as an #orbit-diagram
+* Rendered the `zipWith3Grate` function from p. 84:23 as an #orbit-diagram
 * #Yoneda lemma
 
 [Traversal Optics and Polynomial Functors.pdf](https://github.com/BartoszMilewski/Publications/blob/master/Traversals.pdf) (2021)

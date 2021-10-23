@@ -12,11 +12,11 @@
 
 [Kan extensions for program optimisation - Or: Art and Dan explain an old trick](https://www.cs.ox.ac.uk/ralf.hinze/Kan.pdf) (2012)
 * Trying to understand Kan extensions as categorical ends - section 6
-* Rendered the `bind` instance of the continuation monad from p. 1 as an orbit diagram
+* Rendered the `bind` instance of the continuation monad from p. 1 as an #orbit-diagram
 
 [Comonads for user interfaces](https://arthurxavierx.github.io/ComonadsForUIs.pdf) (2017)
 * Got the state/store pairing concept from p. 26
-* My first orbit diagram was a rendering of this
+* My first #orbit-diagram was a rendering of this
 
 [Update monads: Cointerpreting directed containers](https://danel.ahman.ee/papers/types13postproc.pdf) (1998)
 * Update monads as a generalization of state monads
