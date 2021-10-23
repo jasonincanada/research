@@ -1,4 +1,4 @@
-[Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894) (2005)
+[Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894) (2020)
 * Introduction to category $Poly$
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) (2018)
