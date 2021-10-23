@@ -5,7 +5,7 @@
 [Hippocampal Spatial Mapping As Fast Graph Learning](https://arxiv.org/abs/2107.00567) (2021)
 * Figure 3 strongly reminiscent of the idea behind `gridpass.io`
 * Solo paper from a thinktank
-* Emailed author in July 2021
+* Emailed author in July 2021 #contact
 
 [Rotational Dynamics Reduce Interference Between Sensory and Memory Representations](https://www.nature.com/articles/s41593-021-00821-9) (2021)
 * Interesting paper showing #rotation in neural representation of past sensory data to deconflict from new data

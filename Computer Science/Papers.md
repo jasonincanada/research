@@ -2,7 +2,7 @@
 
 [Systematic Derivation of Efficient Parallel Algorithms for Generate-test-α Computation](https://www.jstage.jst.go.jp/article/imt/7/2/7_567/_article) (2012)
 * Build a linear-time reducer from the semiring operations of the equivalent cubic-time reducer
-* Emailed author in March 2021 with link to my [C# code](https://github.com/jasonincanada/kattis/tree/master/cs/semirings) for these ideas (no reply)
+* Emailed author in March 2021 with link to my [C# code](https://github.com/jasonincanada/kattis/tree/master/cs/semirings) for these ideas (no reply) #contact
 
 [The Yampa arcade](https://dl.acm.org/doi/abs/10.1145/871895.871897) (2003)
 * Good intro to functional reactive programming #frp
