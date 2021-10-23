@@ -7,5 +7,5 @@
 * Solo paper from a thinktank
 * Emailed author in July 2021
 
-[Rotational Dynamics Reduce Interference Between Sensory and Memory Representations](https://www.biorxiv.org/content/10.1101/641159v1) (2019)
+[Rotational Dynamics Reduce Interference Between Sensory and Memory Representations](https://www.nature.com/articles/s41593-021-00821-9) (2021)
 * Interesting paper showing #rotation in neural representation of past sensory data to deconflict from new data
