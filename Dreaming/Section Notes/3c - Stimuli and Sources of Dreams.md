@@ -13,7 +13,7 @@ Fascinating section on dream narration bunching up at the end of the dream in a 
 
 "Many writers have commented upon 'the striking facility with which dreams are able to weave a sudden impression from the world of the senses in their own structure so that it comes as what appears to be a pre-arranged catastrophe that has been gradually led up to.'" Hildebrandt (1875) p. 58
 
-Hildebrandt used an alarm clock in his youth to be up at a fixed hour, reported **hundreds** of occurences of the noise of the alarm working its way into "an ostensibly lengthy and connected dream as though the whole dream had been leading up to that one event and had reached its appointed end in what was a logically indispensable climax." p. 58
+Hildebrandt used an alarm clock in his youth to be up at a fixed hour, reported **hundreds** of occurrences of the noise of the alarm working its way into "an ostensibly lengthy and connected dream as though the whole dream had been leading up to that one event and had reached its appointed end in what was a logically indispensable climax." p. 58
 
 * Volkelt (1875)'s composer's dream of his music class students yelling fire in a sequence of mutating shouts: Oh ja -> Orja! -> Eurjo! -> Feuerjo! due to an actual fire in the streets outside
 * Garnier (1865)'s dream recounted by Napolean of waking up in his carriage from a bomb explosion
