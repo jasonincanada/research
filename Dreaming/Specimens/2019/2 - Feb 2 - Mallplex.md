@@ -4,4 +4,4 @@ I've been #wandering around a huge and complex multi-storied concrete structure 
 
 A team of law-enforcement or investigatory officials returns from a trip elsewhere, and there is a discomforting feeling of unease about the group.  It turns out the leader of the team had died or had been killed on whatever mission they were returning from.  Although not expressed to me explicitly, there is an obvious pressure on me from them not to let anyone know about it. #death
 
-I'm really shocked about it and it takes me a while to come to terms with the fact that the leader is really dead.  A woman I know walks up to me from somewhere else in the mall, crying as she pulls me into a hug.  When she lets go she says, "We're going to go to jail for this."  I nod in understanding.
+I'm really #shocked about it and it takes me a while to come to terms with the fact that the leader is really dead.  A woman I know walks up to me from somewhere else in the mall, crying as she pulls me into a hug.  When she lets go she says, "We're going to go to jail for this."  I nod in understanding.
