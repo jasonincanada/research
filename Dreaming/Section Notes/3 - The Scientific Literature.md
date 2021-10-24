@@ -1,4 +1,4 @@
-Pages 35 - 120 are a boring trundle through the existing scientific literature up to the time Freud began his theories. This section of the book was described by the editor as being Freud's "bug-bear", which he put off until last, no doubt in my opinion due to its somewhat boring nature and disappointingly wrong inferences drawn by other theorists at the time.  Don't miss his [[Postscript, 1909|1909 Postscript]] for a small sampling of Freudian sass
+Pages 35 - 120 are a boring trundle through the existing scientific literature up to the time Freud began his theories. This section of the book was described by the editor as being Freud's "bug-bear", which he put off until last, no doubt in my opinion due to its somewhat boring nature and the disappointingly wrong inferences drawn by other theorists at the time.  Don't miss his [[Postscript, 1909|1909 Postscript]] for a small sampling of Freudian sass
 
 ---
 
@@ -23,6 +23,6 @@ G - [[3g - Theories of Dreaming and Its Function|Theories of Dreaming and Its Fu
 * ancients regarded dreams as due to divine agency
 * two opposing currents through opinions of dreaming throughout history
 	* truthful and valuable, sent to dreamer to warn him or predict the future
-	* vain, deceitful, worthless, meant to mislead or destory
+	* vain, deceitful, worthless, meant to mislead or destroy
 
 Next: [[3a - Relation of Dreams to Waking Life]]

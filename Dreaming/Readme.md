@@ -7,10 +7,13 @@
 
 The page numbers listed in the section notes correspond to those in the above printed book.  *Italics* are in the original but **bold** text is emphasis I have added.
 
-[[1 - Editor's Introduction]]
-[[2 - Preface to the First Edition]]
-[[3 - The Scientific Literature]]
+### Chapter 1
+* [[1 - Editor's Introduction]]
+* [[2 - Preface to the First Edition]]
+* [[3 - The Scientific Literature]]
 
+
+---
 
 ## Dream Index
 
