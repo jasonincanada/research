@@ -3,7 +3,7 @@
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) (2018)
 * Intro to applications of category theory in real-world settings
-* Sent in corrections
+* Sent in corrections #contact
 * Credited in the Acknowledgements section
 
 [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (2019)
