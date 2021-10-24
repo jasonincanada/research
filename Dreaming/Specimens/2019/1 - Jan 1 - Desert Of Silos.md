@@ -1,6 +1,6 @@
 # 1 Jan 2019
 
-I'm in a city constructed only of hallow concrete columns in the middle of a #desert, with sand going off to the horizon in every direction.  The columns are wide enough for each floor to have as much space as a floor of a house, but their vertical scale allows for hundreds of floors, connected by a network of staircases throughout.  The columns are situated many dozens of meters apart from each other, and drones buzz to and fro, transferring things between them.
+I'm in a city constructed only of hallow #concrete columns in the middle of a #desert, with sand going off to the horizon in every direction.  The columns are wide enough for each floor to have as much space as a floor of a house, but their vertical scale allows for hundreds of floors, connected by a network of staircases throughout.  The columns are situated many dozens of meters apart from each other, and drones buzz to and fro, transferring things between them.
 
 A small fraction of the columns, though identical in appearance to the others around them, actually serve as missile silos, each holding a nuclear ICBM.  Together they constitute a deterrent against aggression from other, far-off cities. #weapon
 
