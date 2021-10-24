@@ -11,6 +11,7 @@ D - [[3d - Why Dreams are Forgotten After Waking|Why Dreams are Forgotten After 
 E - [[3e - Distinguishing Psychological Characterics|Distinguishing Psychological Characterics]]
 F - [[3f - Moral Sense in Dreams|Moral Sense in Dreams]]
 G - [[3g - Theories of Dreaming and Its Function|Theories of Dreaming and Its Function]]
+H - [[3h - Relations Between Dreams and Mental Diseases|Relations Between Dreams and Mental Diseases]]
 
 ---
 
