@@ -1,6 +1,6 @@
 # 15 Sep 2021
 
-Day residue: #Anxiety about video conferencing today with the rest of the company
+Day residue: #Anxiety about video conferencing later on today with the rest of the company
 
 ### 7:20am
 
