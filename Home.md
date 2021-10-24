@@ -6,6 +6,8 @@ A place for my research notes and references.  Best explored and edited with [Ob
 * Computer science [[Computer Science/Papers|papers]]
 * Math [[Mathematics/Papers|papers]]
 * Neuroscience [[Neuroscience/Papers|papers]]
+* Research and analysis of [[Dreaming|dreaming]]
+* [[Great Trials|Great trials]] of world history
 
 Also, things you probably didn't know (but you probably ought to) about cephalopods:
 
