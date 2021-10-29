@@ -2,10 +2,10 @@ A place for my research notes and references.  Best explored and edited with [Ob
 
 ## Quick links
 
-* Category theory [[Category Theory/Papers|papers]]
-* Computer science [[Computer Science/Papers|papers]]
-* Math [[Mathematics/Papers|papers]]
-* Neuroscience [[Neuroscience/Papers|papers]]
+* Category theory [[Category Theory Papers|papers]]
+* Computer science [[Computer Science Papers|papers]]
+* Math [[Math Papers|papers]]
+* Neuroscience [[Neuroscience Papers|papers]]
 * Research and analysis of [[Dreaming|dreaming]]
 * [[Great Trials|Great trials]] of world history
 
