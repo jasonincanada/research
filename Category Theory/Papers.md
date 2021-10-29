@@ -1,3 +1,6 @@
+[Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf)
+* Book by Spivak and Niu building on the below ref #now
+
 [Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894) (2020)
 * Introduction to category $Poly$
 
@@ -21,3 +24,4 @@
 [Update monads: Cointerpreting directed containers](https://danel.ahman.ee/papers/types13postproc.pdf) (1998)
 * Update monads as a generalization of state monads
 * How the reader / writer / state monads are similar to and different from one another
+* Found via https://chrispenner.ca/posts/update-monad
