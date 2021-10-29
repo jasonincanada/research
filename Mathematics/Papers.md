@@ -1,6 +1,5 @@
 [What sequential games, the tychonoff theorem and the double-negation shift have in common](https://dl.acm.org/doi/10.1145/1863597.1863605) (2010)
-* Studying this #now
-* Rendering some functions in #orbit-diagram notation
+* Rendering some functions in #orbit-diagram notation #recently
 * Optimal playing of sequential games
 * Bridge to topology
 
