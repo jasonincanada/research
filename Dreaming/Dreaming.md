@@ -12,6 +12,10 @@ The page numbers listed in the section notes correspond to those in the above pr
 * [[2 - Preface to the First Edition]]
 * [[3 - The Scientific Literature]]
 
+### Chapter 2
+* [[4 - Analysis of Specimen Dream]]
+* 5 - Irma
+
 ---
 
 [[Dream Index]] - list of my own specimen dreams
