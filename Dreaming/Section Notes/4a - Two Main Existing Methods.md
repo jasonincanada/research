@@ -2,7 +2,7 @@
 
 "The first ... considers the content of the dream as a whole and seeks to replace it by another content which is intelligible and in certain respects analogous to the original one.  This is '*symbolic*' dream-interpreting."
 
-* Joseph's explanation of Pharoah's dream from the Bible about seven fat and seven lean cows
+* Joseph's explanation of Pharaoh's dream from the Bible about seven fat and seven lean cows
 
 "Most of the artificial dreams constructed by imaginative writers are designed for a symbolic interpretation of this sort."
 
