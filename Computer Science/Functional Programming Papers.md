@@ -5,6 +5,7 @@
 * Sec 6: concrete build systems
 * Table 2: eight existing systems as products of schedulers/rebuilders
 
+---
 
 The Journal of Functional Programming is [moving to open access](https://www.cambridge.org/core/journals/journal-of-functional-programming/information/faq-move-to-open-access) in January
 
@@ -12,8 +13,6 @@ Some papers to check out #pending:
 
 ### 2021
 
-- [Explainable dynamic programming](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/abs/explainable-dynamic-programming/E8DC46B3363847A2BA18B345C8591DAA) (2021)
-	- "Our approach is based on retaining a granular representation of values that are aggregated during program execution. The explanations that are created from the granular representations can answer questions of why one result was obtained instead of another and therefore can increase the confidence in the correctness of program results."
 - [Segments: An alternative rainfall problem](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/abs/segments-an-alternative-rainfall-problem/ABEA634EB9763953CBCC8D2AC58FE710) (2021)
 
 ### 2020
