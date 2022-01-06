@@ -1,4 +1,4 @@
-[Explainable dynamic programming](https://doi.org/10.1017/S0956796821000083) (2021)
+[Explainable dynamic programming](https://doi.org/10.1017/S0956796821000083) #erw21 (2021)
 
 ## Value decompositions and sets
 
