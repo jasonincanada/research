@@ -68,4 +68,6 @@ Copied from p. 18:
 
 Hidden Markov Models - infer a sequence of hidden states from visible observations
 
+See [[Bayes Theorem and Viterbi]]
+
 ![[erw21 fig 10 - viterbi dp.png]]
