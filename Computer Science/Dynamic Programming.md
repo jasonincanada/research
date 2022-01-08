@@ -34,6 +34,10 @@ The `View` semiring lets us describe the components of an optimal solution inste
 
 ![[erw21 - view semiring.png]]
 
+**Echoes of the past:** The [Linear A script](https://en.wikipedia.org/wiki/Linear_A), used on Crete by the Minoans from 1800 - 1450 BC, is still largely undeciphered, but we have some idea of their use of numbers in practice. In particular, from the [Unicode script proposal for Linear A](https://www.unicode.org/L2/L2010/10422-n3973-lineara.pdf), p. 3:
+
+    "Unlike Linear B, which has a complex system for recording the weights and volumes of dry and liquid commodities separately, Linear A does not; it merely records amounts, it being up to the reader to assume individual units (e.g., people or animals) or dry or liquid measurements according to the commodity"
+
 
 ## Minimal Dominators and Explanations
 
