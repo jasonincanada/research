@@ -1,4 +1,4 @@
-[Build systems à la carte: Theory and practice](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/build-systems-a-la-carte-theory-and-practice/097CE52C750E69BD16B78C318754C7A4) (2020) #now
+[Build systems à la carte: Theory and practice](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/build-systems-a-la-carte-theory-and-practice/097CE52C750E69BD16B78C318754C7A4) (2020)
 * Concise abstraction of many build systems
 * Sec 2.2: Excel is a build system in disguise
 * Sec 4, 5: factorize systems into separate schedulers and rebuilders
