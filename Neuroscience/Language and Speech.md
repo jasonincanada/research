@@ -15,7 +15,7 @@
 
 "Together, these results suggest that multiple predictive models process speech input in parallel. An architecture consistent with these observations is sketched in Figure 8: three different neural systems receive the speech input in parallel. Each representation is updated incrementally by arriving phonemes. However, the three systems differ in the extent and kind of context that they incorporate, each generating its own probabilistic beliefs about the current word and/or future phonemes. For instance, the sublexical model uses the local phoneme history to predict upcoming phonemes. The updates are incremental because the state of the model at time $k+1$ is determined by the state of the model at time $k$ and the phoneme input from time $k$. The same incremental update pattern applies to the sublexical, word and sentence models."
 
-![[bro22 fig 2 - parallel context models.png]]
+![[bro22 fig 8 - parallel context models.png]]
 
 **Figure 8** An architecture for speech perception with multiple parallel context models
 
