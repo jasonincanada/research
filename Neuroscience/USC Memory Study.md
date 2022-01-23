@@ -1,6 +1,6 @@
 Press release: [USC Team Shows How Memories Are Stored in The Brain, With Potential Impact on Conditions Like PTSD](https://viterbischool.usc.edu/news/2022/01/usc-team-shows-how-memories-are-stored-in-the-brain-with-potential-impact-on-conditions-like-ptsd/)
 
-DOI link (not active yet): https://doi.org/10.1073/pnas.2107661119 #pending
+[Regional synapse gain and loss accompany memory formation in larval zebrafish](https://doi.org/10.1073/pnas.2107661119) #dem22 (2022)
 
 ---
 
