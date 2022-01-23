@@ -1,1 +1,7 @@
-.obsidian/
+.obsidian/plugins
+.obsidian/community-plugins.json
+
+.obsidian/hotkeys.json
+.obsidian/graph.json
+
+.obsidian/workspace
