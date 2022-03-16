@@ -1,3 +1,5 @@
+[Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](https://doi.org/10.7554/eLife.74500) (2022) #preprint
+
 [Right frontal anxiolytic-sensitive EEG ‘theta’ rhythm in the stop-signal task is a theory-based anxiety disorder biomarker](https://www.nature.com/articles/s41598-021-99374-x) (2021)
 * First theoretically-based biomarker for anxiety - goal-conflict-specific rhythmicity
 
