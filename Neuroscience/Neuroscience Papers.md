@@ -1,5 +1,12 @@
 [Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](https://doi.org/10.7554/eLife.74500) (2022)
 
+- "To find out whether the monkeys’ behavior can be decomposed into a set of strategies, we fit their gameplay with a dynamic compositional strategy model, which is inspired by recent advances in the artificial intelligence field in developing AI algorithms that solve the game with a multiagent approach" p. 2
+- "The weight dynamics suggest that the decision of switching to the approach strategy was not an afterthought but planned well ahead. The monkeys strung the energizer/local strategy with the approach strategy together into the compound strategy to eat an energizer and then hunt the ghosts." p. 10
+- "The second scenario involves a counterintuitive move in which the monkeys moved Pac-Man toward a normal ghost to die on purpose in some situations. Although the move appeared to be suboptimal, it was beneficial in a certain context. ... it is advantageous to reset the game by committing such suicide when local pellets are scarce, and the remaining pellets are far away." p. 10
+- "The compound strategies demonstrate that the monkeys learned to actively change the game into desirable states that can be solved with planned strategies. Such intelligent behavior cannot be explained with a passive foraging strategy." p. 10
+- "... pursuing a deeper insight into the cognitive capability of the brain demands sophisticated behavior paradigms in which an ensemble of perception, attention, valuation, executive control, decision-making, motor planning, and other cognitive processes need to work together continuously across time." p. 11
+
+
 [Right frontal anxiolytic-sensitive EEG ‘theta’ rhythm in the stop-signal task is a theory-based anxiety disorder biomarker](https://www.nature.com/articles/s41598-021-99374-x) (2021)
 * First theoretically-based biomarker for anxiety - goal-conflict-specific rhythmicity
 
