@@ -1,3 +1,15 @@
+[Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice](https://doi.org/10.1016/j.neuron.2021.07.029) #gil21 (2021)
+
+- Study resolves limitations and ambiguities in prior studies that try to discern role of hippocampal replay, between two main hypotheses, *planning* and *memory storage*
+    - replay for *planning* studies exclude "spatially and temporally remote, unavailable, or specific non-preferred options"
+    - replay for *memory storage* studies were based on simple tasks with repeated navigation to small number of fixed locations
+
+"Our results revealed a striking lack of correspondence between replay content and upcoming choice. Replay neither increased nor decreased the tendency of the subject to visit the replayed location, regardless of reward history or visit recency of the location. Instead, we found that replay was dominated by two categories of past experiences: places that had a reliably delivered reward (even after they no longer did so) and places that had not recently been visited, **strongly suggesting that hippocampal replay supports memory processes** by facilitating memory maintenance and long-term storage rather than by guiding subsequent behavior." p. 3150
+
+Study ignores direction of replay, ie: whether forward or reverse: "Given the complexity of this distinction, and because we were primarily interested in assessing the spatial locations represented across as many events as possible, we did not separate events by directionality." p. 3153
+
+---
+
 [The content of hippocampal "replay"](https://doi.org/10.1002/hipo.22824) #Pfe17 (2017)
 
 (This one is difficult to synopsize since it seems almost every sentence is substantial--I could almost paste the whole article into these notes. The article itself is a synopsis of several research papers. For conciseness I have elided all inline references. All bold emphasis was added by me. Page numbers are as labeled on the published pages, not the PDF viewer offset)
