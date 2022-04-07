@@ -30,3 +30,9 @@
 ### Conclusions
 
 "Prior research on the use of context during language processing has often focused on binary distinctions, such as asking whether context is or is not used to predict future input. Such questions assumed a single serial or cascaded processing stream. Here we show that this assumption might have been misleading, because different predictive models are maintained in parallel. Our results suggest that robust speech processing is based on probabilistic predictions using different context models in parallel, and cutting across hierarchical levels of representations." p. 23
+
+---
+
+[Visual and linguistic semantic representations are aligned at the border of human visual cortex](https://doi.org/10.1038/s41593-021-00921-6) (2021)
+* Visual and linguistic representations are *aligned in the brain*
+* "Remarkably, the pattern of semantic selectivity in these two distinct networks corresponded along the boundary of visual cortex: for visual categories represented posterior to the boundary, **the same categories were represented linguistically on the anterior side**. These results suggest that these two networks are smoothly joined to form one contiguous map." (Abstract)
