@@ -36,7 +36,7 @@ From p. 4:
 
 > While the lattice has been defined only for a pair of methods of an ADT, it can be readily extended to create a bounded lattice of commutativity specifications, with elements of the lattice representing specifications that are distinct up to logical equivalence. For two commutativity specifications $\Phi_1$ and $\Phi_2$, $\Phi_1 \preceq \Phi_2$ if and only if, for each pair of methods $m_1$, $m_2$, where $\phi_1$ is the commutativity condition for $m_1$ and $m_2$ from $\Phi_1$, and $\phi_2$ is the corresponding condition from $\Phi_2$, $\phi_1 \preceq \phi_2$.
 
-> We can define $\sqcap$ and $\sqcup$ in a similar manner (joining or meeting corresponding pairs of commutativity conditions from the two specifications). $\perp$ is the specification where all conditions are **false**, and $\top$ is the specification where all conditions are precise: $\Phi^∗$
+> We can define $\sqcup$ and $\sqcap$ in a similar manner (joining or meeting corresponding pairs of commutativity conditions from the two specifications). $\perp$ is the specification where all conditions are **false**, and $\top$ is the specification where all conditions are precise: $\Phi^∗$
 
 ---
 
