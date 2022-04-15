@@ -47,6 +47,12 @@
 * Uses #Yoneda lemma twice
 
 
+### Transactional Memory
+
+[Transactional Memory in Rust](https://dash.harvard.edu/handle/1/38811564) (2019)
+* port of STO (software transactional objects) from C++ to Rust
+
+
 ### User Interface
 
 [Declarative UIs are the Future — And the Future is Comonadic!](https://functorial.com/the-future-is-comonadic/main.pdf)
