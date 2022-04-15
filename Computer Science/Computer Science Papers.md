@@ -4,11 +4,6 @@
 * Build a linear-time reducer from the semiring operations of the equivalent cubic-time reducer
 * Emailed author in March 2021 with link to my [C# code](https://github.com/jasonincanada/kattis/tree/master/cs/semirings) for these ideas (no reply) #contact
 
-[Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf) (2005)
-* Software transactional memory and its Haskell implementation
-* Microsoft Research
-* Referenced a lot in my [stm-haskell](https://github.com/jasonincanada/stm-haskell) repo
-
 [The Yampa arcade](https://dl.acm.org/doi/abs/10.1145/871895.871897) (2003)
 * Good intro to functional reactive programming #frp
 * Implements a Space Invaders game
@@ -51,6 +46,11 @@
 
 [Transactional Memory in Rust](https://dash.harvard.edu/handle/1/38811564) (2019)
 * port of STO (software transactional objects) from C++ to Rust
+
+[Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf) (2005)
+* Software transactional memory and its Haskell implementation
+* Microsoft Research
+* Referenced a lot in my [stm-haskell](https://github.com/jasonincanada/stm-haskell) repo
 
 
 ### User Interface
