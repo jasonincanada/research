@@ -1,9 +1,3 @@
-[Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf)
-* Book by Spivak and Niu building on the below ref
-
-[Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894) (2020)
-* Introduction to category $Poly$
-
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) (2018)
 * Intro to applications of category theory in real-world settings
 * Sent in corrections #contact
