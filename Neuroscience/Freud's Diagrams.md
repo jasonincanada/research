@@ -55,6 +55,8 @@ Freud: "A ‘lateral’ cathexis thus acts as *an inhibition on the passage of q
 
 Modern research:  A 2021 study found that chandelier cells synapse exclusively onto the axon-initial-segment of pyramidal neurons (in mouse visual cortex): [Structure and function of axo-axonic inhibition](https://doi.org/10.7554/eLife.73783).  From the abstract: "Biophysical simulations show that the observed pattern of axo-axonic inhibition is particularly effective in controlling excitatory output when excitation and inhibition are co-active."
 
+Related research: A 2022 study explored memory #suppression in terms of the dynamics between dACC, rDLPFC, and hippocampus: [Anterior Cingulate Cortex Signals the Need to Control Intrusive Thoughts During Motivated Forgetting](https://doi.org/10.1523/JNEUROSCI.1711-21.2022)
+
 ---
 
 ![[freud - ucs links.png]]
