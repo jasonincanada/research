@@ -16,6 +16,10 @@
 
 ---
 
+[General variability leads to specific adaptation toward optimal movement policies](https://doi.org/10.1016/j.cub.2022.04.015) #abr22 (2022) #paywall
+
+Summary: "Our nervous systems can learn optimal control policies in response to changes to our bodies, tasks, and movement contexts... However, it is unclear how the nervous system determines which ways to adapt its control policy. Here, we asked how human participants explore through variations in their control policy to identify more optimal policies in new contexts. ... We found that, across all of these analyzed variables, variability increased upon initial exposure to new contexts and then decreased with experience. ... The timescales by which adaptive changes progressed and variability decreased were faster for some variables than others, suggesting a reduced search space within which the nervous system continues to optimize its policy. ..."
+
 [Humans optimally anticipate and compensate for an uneven step during walking](https://doi.org/10.7554/eLife.65402) (2022)
 
 [The energetic basis for smooth human arm movements](https://doi.org/10.7554/eLife.68013) (2021)
