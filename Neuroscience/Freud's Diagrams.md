@@ -22,6 +22,10 @@
 
 "It is no exaggeration to say that this insight is the precise point at which the *mind* — that aspect of the organism which represents the body not concretely but rather *functionally, abstractly and symbolically* — entered Freud’s scientific work." p. 91
 
+From p. 2 of [Psychoanalysis and Neuroscience: The Bridge Between Mind and Brain](https://doi.org/10.3389/fpsyg.2019.01983):
+
+> In his Project [for a Scientific Psychology], Freud tried to explain at various levels the physiological basis of memory, hypothesizing that one of the neurophysiological prerequisites necessary for this function was a system of barriers, which he named “contact-barrier.” He used this term to describe the neurophysiological entity which 11 years later, Charles Scott Sherrington named synapses.
+
 ## departure from neuroanatomy
 
 ![[freud - word presentation.png]]
