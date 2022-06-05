@@ -1,3 +1,5 @@
+[Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://doi.org/10.3389/fncom.2017.00048) #rei17 (2017)
+
 [Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](https://doi.org/10.7554/eLife.74500) (2022)
 
 - "To find out whether the monkeys’ behavior can be decomposed into a set of strategies, we fit their gameplay with a dynamic compositional strategy model, which is inspired by recent advances in the artificial intelligence field in developing AI algorithms that solve the game with a multiagent approach" p. 2
