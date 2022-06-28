@@ -16,7 +16,31 @@
 
 ---
 
-[Relationship between the practice of Tai chi for more than 6 months with mental health and brain in university students: An exploratory study](https://www.frontiersin.org/articles/10.3389/fnhum.2022.912276/abstract) #li22 (2022) #preprint
+[Relationship between the practice of Tai chi for more than 6 months with mental health and brain in university students: An exploratory study](https://www.frontiersin.org/articles/10.3389/fnhum.2022.912276/abstract) #li22 (2022)
+
+- "Neuroscientists have found that if you meditate regularly, you not only become good at it but also improve your self-control, self-knowledge, attention, stress management, and the ability to resist impulses ... TC is a comprehensive mind-body exercise with both martial arts and meditation components and has the unique advantage of being easy to learn, safe and effective." p. 2
+
+- "Existing studies have shown that TC has a very significant effect in terms of exercise intervention, which can not only improve physical fitness, including fall prevention, hypertension reduction, and cardiac rehabilitation, but also has certain benefits to mental health, including improvement of quality of life and self-efficacy, emotional processing and other problems, and even has some beneficial effects on the improvement of patients with depression. Meanwhile, TC can also significantly improve people’s sleep quality and mental state." p. 2 (refs elided)
+
+- "In 2010, Field observed that performances on math computations (including speed and accuracy) of participants were significantly improved by a 20-min TC training course and associated with an increase in frontal EEG theta activity [(Field et al., 2010)](https://doi.org/10.1016/j.ctcp.2010.05.014)." p. 2
+
+![[li22 fig 1 - questionnaire scores.png]]
+
+### reaction time
+
+"Compared with the control group, the subjects in the TC group seemed to have a faster reaction speed." p. 5
+
+![[li22 fig 2 - reaction time.png]]
+
+### discussion
+
+"The alpha band analysis of EEG showed that TC practice significantly improved the activation of the prefrontal lobes of the practitioners, enhanced functional neuroplasticity of the brain, and also increased the reaction speed of the practitioners." p. 9
+
+"The nodal degree of the two groups was significantly different in the FP1 and FP2 nodes of the frontal lobe and the T3 and T4 nodes of the temporal lobe, with advanced cognitive functions, such as learning, language, decision making, abstract thinking, emotion, and so on, while the temporal lobe is related to memory and emotion, and the amygdala in the anterior temporal lobe is the core area that regulates emotion. The node degree of the frontal lobe and temporal lobe in the TC group was higher than that in the control group, which indirectly reflected that the practice of TC had a positive effect on the advanced cognitive functions." p. 9
+
+"After the practice of TC, the shortest path length between the nodes in the brain functional network of the TC group became shorter, that is, the number of edges from one node to another decreased. Furthermore, under a single sparse degree, the TC group showed higher global efficiency, which further indicated that compared with the control group, the transmission efficiency of the information carried by each node in the TC group is higher at the global level of the brain. This indirectly proved that after the practice of TC, the degree of functional integration within the brain is enhanced. On the other hand, a higher clustering coefficient in the TC group revealed that the nodes in the brain functional network of the TC group had a higher degree of aggregation at the local level of the brain, that is, for the whole brain region, the connection density between nodes decreased, while the higher local efficiency of the TC group showed that the information transmission efficiency of the nodes in the brain functional network of the TC group was higher than that of the control group at the local level." p. 9
+
+---
 
 [General variability leads to specific adaptation toward optimal movement policies](https://doi.org/10.1016/j.cub.2022.04.015) #abr22 (2022) #paywall
 
