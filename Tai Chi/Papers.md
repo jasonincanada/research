@@ -16,7 +16,7 @@
 
 ---
 
-[Relationship between the practice of Tai chi for more than 6 months with mental health and brain in university students: An exploratory study](https://www.frontiersin.org/articles/10.3389/fnhum.2022.912276/abstract) #li22 (2022)
+[Relationship between the practice of Tai chi for more than 6 months with mental health and brain in university students: An exploratory study](https://doi.org/10.3389/fnhum.2022.912276) #li22 (2022)
 
 - "Neuroscientists have found that if you meditate regularly, you not only become good at it but also improve your self-control, self-knowledge, attention, stress management, and the ability to resist impulses ... TC is a comprehensive mind-body exercise with both martial arts and meditation components and has the unique advantage of being easy to learn, safe and effective." p. 2
 
