@@ -1,3 +1,11 @@
+[A causal role for the human subthalamic nucleus in non-selective cortico-motor inhibition](https://doi.org/10.1016/j.cub.2022.06.067) (2022) #paywall
+
+Press release: [Iowa researchers confirm brain region’s role in mind-body communication](https://now.uiowa.edu/2022/07/iowa-researchers-confirm-brain-region-role-mind-body-communication)
+
+- "In experiments with humans, the researchers pinpointed the subthalamic nucleus as the region in the brain that communicates with the motor system to help the body stop an action. This communication is vital because it helps humans avoid surprises and react to potentially dangerous or unforeseen circumstances. The subthalamic nucleus is a tiny grouping of cells that is part of the basal ganglia, which is a key circuit in controlling movement. The basal ganglia takes initial motor commands generated in the brain and either amplify or halt specific parts of those commands as they pass from the central nervous system to the spinal cord. You can think of the subthalamic nucleus as the core region in this ‘halting’ of extra, unwanted components of compound movements, as it is the last relay station before the output nuclei of the basal ganglia, which then communicates these commands to the wider motor system," (Press release)
+
+---
+
 [Integrating Chronic Obstructive Pulmonary Disease Treatment With 8-Week Tai Chi Chuan Practice: An Exploration of Mind-Body Intervention and Neural Mechanism](https://doi.org/10.3389/fnhum.2022.849481) (2022)
 
 - first study on the effect of tai chi practice on brain function in patients with COPD
