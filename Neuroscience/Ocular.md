@@ -1,3 +1,30 @@
+[Exogenous capture accounts for fundamental differences between pro- and antisaccade performance](https://doi.org/10.7554/eLife.76964) #gol22 (2022)
+
+- primates' oculomotor system selects a target to look at every 200–250 ms
+- two components of attention:
+    - *exogenous*: automatic response to size/luminance/motion of objects in view
+    - *endogenous*: internal behaviour goals (ie: participant is told to look toward or away from cue)
+- study looks at the tension between the two and the dependence of exo on endo, if any
+
+"In the urgent antisaccade experiment, the tachometric curve revealed a unique feature: a range of processing times roughly between 90 and 130 ms in which performance plummeted to nearly 0% correct (Figure 2d). In other words, there was a range of conditions (i.e., states of motor preparation) indexed by processing time over which the cue onset would almost inevitably capture the saccade and lead to an error. Thereafter, for rPT ≳140 ms, accuracy increased steadily and reached nearly 100% correct." p. 2
+
+![[gol22 fig 2.png]]
+
+**Figure 2** Note the dip in the red plot (d). Between ~90ms and ~140ms after cue onset the accuracy in the antisaccade task drops almost to 0; the eyes' focus is "captured" by the exogenous stimulus regardless of the participant's plan to look away from it
+
+"We interpreted these data as the direct manifestation of the conflict between the early attentional pull toward the cue, which is salience-driven, involuntary, and transient, and the later intention to look away, which is task-dependent, voluntary, and sustained." p. 3
+
+Same effect across all 10 participants:
+![[gol22 fig 6 ab.png]]
+
+**Figure 6 a,b** Accuracy as a function of rPT (raw processing time, from cue onset to saccade toward/away from goal, see Fig 1) for anti- (a) and pro- (b) saccades
+
+- study concludes the exogenous response is "highly stereotyped and largely independent of behavioral context." p. 3
+
+"In summary, then, we found that the capture mechanism is the same in the urgent pro- and antisaccade tasks, and that it is the consequence of a robust exogenous burst of oculomotor activity that always occurs. Therefore, it remains to be determined whether antisaccade performance depends critically on a specific circuit element being inhibited, but the obvious candidate, the exogenous response itself, is not it." p. 11
+
+---
+
 [Stochastic Physiological Gaze-Evoked Nystagmus With Slow Centripetal Drift During Fixational Eye Movements at Small Gaze Eccentricities](https://doi.org/10.3389/fnhum.2022.842883) #oza22 (2022)
 
 - while attempting to fix their gaze on a target, the eyes still move involuntarily
