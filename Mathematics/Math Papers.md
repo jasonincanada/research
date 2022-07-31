@@ -6,3 +6,7 @@
 [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860) (2021)
 * Combo of machine learning and matrix multiplication
 * Studied sec. 3, tried to grasp the existing Product Quantization algorithm
+
+[generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) (1994)
+* Generating functions, recurrences
+* Reading #now
