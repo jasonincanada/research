@@ -1,3 +1,12 @@
+[Cingulate-motor circuits update rule representations for sequential choice decisions](https://doi.org/10.1038/s41467-022-32142-1) #tak22 (2022)
+- Silencing ACC outputs to M2 disrupts ability to update motor rules (eg. when a step is added to a previously learned ruleset) in rats
+
+[The rapid developmental rise of somatic inhibition disengages hippocampal dynamics from self-motion](https://doi.org/10.7554/eLife.78116) #dar22 (2022)
+
+"We show that the first postnatal week [in mouse pups] ends with an abrupt shift in the representation of self-motion in CA1. Indeed, most CA1 pyramidal cells switch from activated to inhibited by self-generated movements at the end of the first postnatal week, whereas the majority of GABAergic neurons remain positively modulated throughout this period. ... We propose that this abrupt developmental transition inaugurates the emergence of internal hippocampal dynamics." (Abstract)
+
+"... we show that the end of the first postnatal week marks a salient step in the anatomical and functional development of the CA1 region. Indeed, within 2 days (P8–10), the link between CA1 principal cells’ activity and self-triggered movements is inverted and neurons are preferentially active during immobility periods. ... In this way, CA1 circuits start detaching from external inputs. Given the importance of local dynamics for hippocampal function and cortical circuits operation in general, this is likely to be a critical general step in the proper maturation of cognitive circuits." p. 12
+
 [Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://doi.org/10.3389/fncom.2017.00048) #rei17 (2017)
 
 [Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](https://doi.org/10.7554/eLife.74500) (2022)
