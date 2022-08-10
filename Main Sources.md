@@ -1,4 +1,4 @@
-Following these research sources as of July 2022:
+Following these research sources as of August 2022:
 
 | Source                | Link                                                                                             |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
