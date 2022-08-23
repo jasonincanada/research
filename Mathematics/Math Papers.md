@@ -10,3 +10,4 @@
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) (1994)
 * Generating functions, recurrences
 * Reading #now
+* Video of the Fibonacci recurrence from p. 8: [Counting with Calculus: The Magic of Generating Functions](https://www.youtube.com/watch?v=dLiT9axMDrg)
