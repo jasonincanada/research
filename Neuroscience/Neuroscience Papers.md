@@ -1,3 +1,19 @@
+[Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems](https://doi.org/10.1038/s41593-022-01149-8) #sam22 (2022)
+
+- "Neurons in medial prefrontal cortex (mPFC) maintained similar representations across problems despite their different sensorimotor correlates, whereas hippocampal (dCA1) representations were more strongly influenced by the specifics of each problem." (Abstract)
+- "PFC abstracts the common structure among related problems, and hippocampus maps this structure onto the specifics of the current situation." (Abstract)
+
+### Discussion
+
+"Humans and other animals effortlessly generalize prior experience to novel situations that are only partially related. To do this, we must reduce experiences to abstractions—features that are common between different situations. Critically, we must also bind these abstractions to the specifics of the current situation. Our study makes three contributions to understanding how, and when, this process happens." p. 11
+
+"... we show that the neural representation in mPFC reflects the temporal structure of the problem itself, which may allow actions to be generalized from similar previous experiences." p. 11
+
+"... we show that mPFC and CA1 contain different representations that suggest different functional roles. Population responses in mPFC were dominated by problem-invariant representations that might form the abstraction. By contrast, the CA1 responses contained major sources of variance that were either invariant to the sensorimotor particularities ... or, intriguingly, the interaction of these with the problem structure (demonstrating ‘remapping’ between problems or reflecting the interaction of task policy and individual port)." p. 11
+
+"... we show that task abstractions in mPFC simultaneously represent behavior over markedly different temporal scales. Part of the mPFC representation pertained to the immediate next action in the sequence ... but part of the representation pertained to the integrated history of rewards and actions over many trials that allowed the animal to make profitable choices. Notably, both parts of the representation were largely maintained in an abstract form that generalized over problems with different sensory particularities." p. 11
+
+
 [Cingulate-motor circuits update rule representations for sequential choice decisions](https://doi.org/10.1038/s41467-022-32142-1) #tak22 (2022)
 - Silencing ACC outputs to M2 disrupts ability to update motor rules (eg. when a step is added to a previously learned ruleset) in rats
 
