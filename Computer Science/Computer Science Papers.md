@@ -11,6 +11,9 @@
 [Warm fusion: deriving build-catas from recursive definitions](https://dl.acm.org/doi/abs/10.1145/224164.224223) (1995)
 * Uses a rewrite-rule system to fuse `build`/`cata` pairs where they occur in recursive function body expansions
 
+[Sorting with bialgebras and distributive laws](https://doi.org/10.1145/2364394.2364405) #hin12 (2012)
+* Duality in recursive sorting algos
+
 
 ### Databases
 
