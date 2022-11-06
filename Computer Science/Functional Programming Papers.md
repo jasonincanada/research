@@ -1,3 +1,7 @@
+[Algebraic graphs with class (functional pearl)](https://doi.org/10.1145/3122955.3122956) (2017)
+* Minimal algebraic graphs (4 primitives to construct any graph)
+* Algebraic axioms close to a semiring for equational reasoning
+
 [Build systems à la carte: Theory and practice](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/build-systems-a-la-carte-theory-and-practice/097CE52C750E69BD16B78C318754C7A4) (2020)
 * Concise abstraction of many build systems
 * Sec 2.2: Excel is a build system in disguise
