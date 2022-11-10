@@ -11,6 +11,7 @@ A place for my research notes and references.  Best explored and edited with [Ob
 
 Also, things you probably didn't know (but you probably ought to) about cephalopods:
 
+* [[New Atlas]]
 * [[Scientific American]]
 * [[The Conversation]]
 * [[University of Edinburgh]]
