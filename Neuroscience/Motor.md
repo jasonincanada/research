@@ -1,3 +1,98 @@
+[Imagining the way forward: A review of contemporary motor imagery theory](https://doi.org/10.3389/fnhum.2022.1033493) #hur22 (2022)
+
+**Motor imagery**: the mental rehearsal of physical action without actually moving
+
+Article reviews five contemporary theories and defines them on the basis of this high-level schema:
+
+![[hur22 fig 1 - key stages of motor execution.png]]
+
+**Goal Selection** - current goal (ie: pick up mug) is selected
+**High-Level Planning** - translate goal into high-level motor plan
+**Plan Encoding** - translate high-level plan into muscle-specific motor signals
+**Plan Execution** - send the encoded motor plan to the muscles for action
+
+Article covers five modern theories:
+- motor simulation theory (MST)
+- motor emulation theory (MET)
+- motor-cognitive model (MCM)
+- perceptual-cognitive model (PCM)
+- effects imagery model (EIM)
+
+## Motor simulaton theory
+
+- motor imagery and execution use the same neural processes up to the point of muscle activation
+- actual movement inhibited at some point between plan encoding and action
+    - potentially by inhibiting motor commands from getting past the brainstem/spinal cord
+    - or reduced motor cortex activity while imagining; ie. output is below threshold required to actually fire motor neurons
+- performing action and imagining action are functionally equivalent
+- evidence:
+    - mental chronometry is similar; ie, imagining an action takes about the same time as performing it
+    - neural activation is similar between imagining and actual movement. fMRI studies show both increased activity in central/cingular gyri, supplementary motor area, inferior parietal lobule
+
+![[hur22 fig 2 - motor simulation theory.png]]
+
+**Figure 2** Motor simulation theory.  Theory-specific highlights/changes are enclosed in gray
+
+## Motor emulation theory
+
+- motor system involves an emulation process
+- process takes a copy of an encoded motor plan and predicts sensory consequences (known elsewhere as a "forward model" of a motor plan)
+- the emulator provides fast feedback to plan encoding during movement, thought to make for faster motor corrections without requiring slower sensory input
+- the motor plan you imagine is the emulator's predictions when actual movement is inhibited
+- emulator constantly improves its predictions by comparing imagery to actual movement
+- similar to prior work on forward models but proposes the modeling process and motor imagery are the same thing: the model's predictions are what we consciously imagine
+
+![[hur22 fig 3 - motor emulation theory.png]]
+
+**Figure 3** Motor emulation theory
+
+## Motor-cognitive model
+
+- imagery and execution use same mechanisms for planning action but diverge at point of execution
+    - implies imagery is more cognitively demanding for novel actions compared to well-practiced ones, and
+    - the direct pathway from planning to mental simulation means motor plans never get converted into actual motor command format
+- generation of imagery has different cognitive demands that performing/monitoring movement
+- rejects MST's "functional equivalence"
+    - mental chronometry is similar for simple/known movements, but differences increase for complicated/novel actions requiring more cognitive processing
+    - distracting the brain with backwards counting during a reaching task impaired movement times for imagery more than action
+    - neural correlates of imagery and action are different (imagery involves more frontal areas related to executive processing)
+
+![[hur22 fig 4 - motor cognitive model.png]]
+
+**Figure 4** Motor cognitive model
+
+## Perceptual-cognitive model
+
+- motor imagery is conscious experience of high-level motor planning
+- ex: planning to bend the elbow and sensory results of bending elbow are closely associated and stored together; selecting a motor plan activates its associated sensations. these motor/sensory units are called Basic Action Components and form the building blocks of complex motor plans
+- key function of high-level motor planning is restructuring BACs for easier retrieval
+- views motor imagery as the conscious experience of recalling/organizing BACs into a motor plan without any actual action
+- since imagery focuses on organizing high-level planning, it should show faster improvements to BAC organization than physical practice
+- evidence: experts in a given task have more structured action representations compared to novices (eg: an expert tennis swing built from three distinct phases instead of one overall swing)
+
+![[hur22 fig 5 - perceptual-cognitive model.png]]
+
+**Figure 5** Perceptual-cognitive model
+
+## Effects imagery model
+
+- other theories view motor imagery as happening after/during the planning process
+- EIM proposes imagery is essential part of goal selection *prior* to motor planning
+- subject thinks of the desired effects of the action to activate a relevant motor plan
+- effects imagery not required to be detailed/fully conscious, only sufficient to trigger a relevant motor plan
+- two forms of motor imagery:
+    - brief, reflexive that *initiates* motor planning, and detailed form that optionally *follows* motor planning
+
+![[hur22 fig 6 - effects imagery model.png]]
+
+**Figure 6** Effects imagery model
+
+## Summary of Properties
+
+![[hur22 table 1 - summary of properties.png]]
+
+---
+
 [Cortical–hippocampal coupling during manifold exploration in motor cortex](https://doi.org/10.1038/s41586-022-05533-z) #kim22 (2022)
 
 "Systems consolidation—a process for long-term memory stabilization—has been hypothesized to occur in two stages. Whereas new memories require the hippocampus, they become integrated into cortical networks over time, making them independent of the hippocampus. How hippocampal–cortical dialogue precisely evolves during this and how cortical representations change in concert is unknown. ... Our results indicate that precise cross-area coupling between hippocampus, prefrontal cortex and M1 can demarcate two distinct stages of processing. ... Strikingly, even after consolidation, inducing new manifold exploration by changing task parameters re-engages hippocampal–M1 coupling. We thus find evidence for dynamic hippocampal–cortical dialogue associated with manifold exploration during learning and adaptation." (Abstract)
