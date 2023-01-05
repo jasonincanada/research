@@ -7,7 +7,7 @@
 
 ![[ome22 fig 1e - time cell.png]]
 
-**Figure 1e** A single time cell's firing pattern, same bat across 32 trials (y axis), measuring the 8 seconds after the bat landed (x axis). This cell preferred to fire around 1.7s after landing
+**Figure 1e** A single time cell's firing pattern, same bat across 32 trials (y axis), measuring the 8 seconds after the bat landed on Ball A (x axis). This cell preferred to fire around 1.7s after landing
 
 ![[ome22 fig 1g - all time cells sorted.png]]
 
