@@ -1,3 +1,7 @@
+[Neurocomputational mechanism of real-time distributed learning on social networks](https://doi.org/10.1038/s41593-023-01258-y) #jia23 (2023)
+
+---
+
 [Learning at your brain’s rhythm: individualized entrainment boosts learning for perceptual decisions](https://doi.org/10.1093/cercor/bhac426) #mic22 (2022)
 
 ## Intro
