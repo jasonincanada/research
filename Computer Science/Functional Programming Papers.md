@@ -1,3 +1,5 @@
+[Parsing permutation phrases](https://doi.org/10.1017/S0956796804005143) #baa04 (2004)
+
 [Algebraic graphs with class (functional pearl)](https://doi.org/10.1145/3122955.3122956) (2017)
 * Minimal algebraic graphs (4 primitives to construct any graph)
 * Algebraic axioms close to a semiring for equational reasoning
