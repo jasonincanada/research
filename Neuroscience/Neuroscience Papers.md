@@ -1,3 +1,9 @@
+[The nematode worm _C. elegans_ chooses between bacterial foods as if maximizing economic utility](https://doi.org/10.7554/eLife.69779) #kat23 (2023)
+
+"... the neural mechanisms of value assignments, and how choices are directed by them, remain obscure. ... we found that _C. elegans_ food choices fulfill the necessary and sufficient conditions for utility maximization, indicating that nematodes behave as if they maintain, and attempt to maximize, an underlying representation of subjective value. ... subjective values in _C. elegans_ are learned, a process we find requires intact dopamine signaling. Differential responses of ... neurons to foods ... are amplified by prior consumption of these foods, suggesting that these neurons may be part of a value-assignment system." (Abstract)
+
+- all this with only 302 neurons
+
 [Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems](https://doi.org/10.1038/s41593-022-01149-8) #sam22 (2022)
 
 - "Neurons in medial prefrontal cortex (mPFC) maintained similar representations across problems despite their different sensorimotor correlates, whereas hippocampal (dCA1) representations were more strongly influenced by the specifics of each problem." (Abstract)

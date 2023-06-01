@@ -1,3 +1,7 @@
+[Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans](https://doi.org/10.1038/s41593-023-01324-5) #gev23 (2023)
+
+"Synchronizing the stimulation to the active phases of endogenous slow waves in the medial temporal lobe (MTL) enhanced sleep spindles, boosted locking of brain-wide neural spiking activity to MTL slow waves, and improved coupling between MTL ripples and thalamocortical oscillations. Furthermore, synchronized stimulation enhanced the accuracy of recognition memory. ... Notably, individual changes in memory accuracy were highly correlated with electrophysiological effects. Our results indicate that hippocampo–thalamocortical synchronization during sleep causally supports human memory consolidation." (Abstract)
+
 [Cortical regulation of two-stage rapid eye movement sleep](https://doi.org/10.1038/s41593-022-01195-2) #don22 (2022)
 
 "Here we show that the **retrosplenial cortex** (RSC) is selectively activated and initiates cortex-wide calcium waves during REM sleep." p. 1
