@@ -98,7 +98,7 @@ The researchers developed a real-time video monitoring system to watch all 128 f
 
 ![[ely23 fig 5g - organs of host.png]]
 
-**Figure 5G:** The obliterated organs of an infected host. "Left: Infected, non-summiting fly (96 hr after exposure to fungus). Right: summiting, _E. muscae_-infected fly. a=abdomen, b=brain, w=wing, m=muscle. Scale bars are 200 microns. Insets of the abdomen and brain are shown for each fly below (scale bars are 25 microns). Host tissues are outlined in dashed black; black arrowheads indicate fungal nuclei."
+**Figure 5G:** The obliterated organs of a summiting vs non-summiting infected host. "Left: Infected, non-summiting fly (96 hr after exposure to fungus). Right: summiting, _E. muscae_-infected fly. a=abdomen, b=brain, w=wing, m=muscle. Scale bars are 200 microns. Insets of the abdomen and brain are shown for each fly below (scale bars are 25 microns). Host tissues are outlined in dashed black; black arrowheads indicate fungal nuclei."
 
 "We observed extensive degradation of host abdominal tissues in summiting animals. We were stunned to find flies with obliterated guts and gonads walking apparently normally. Despite widespread destruction in the body, the CA and PI-CA neurons appear intact in summiting animals, which is consistent with an acute role in summiting." p. 21
 
