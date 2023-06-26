@@ -1,3 +1,5 @@
+[Fully In-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/) #lor23 (2023)
+
 [Parsing permutation phrases](https://doi.org/10.1017/S0956796804005143) #baa04 (2004)
 
 [Algebraic graphs with class (functional pearl)](https://doi.org/10.1145/3122955.3122956) (2017)
