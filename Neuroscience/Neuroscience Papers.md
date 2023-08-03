@@ -1,3 +1,9 @@
+[Climbing fiber multi-innervation of mouse Purkinje dendrites with arborization common to human](https://doi.org/10.1126/science.adi1024) #bus23 (2023) #paywall
+
+- Ratio of climbing fiber (CF) to Purkinje cell (PC) is not one-to-one in humans as previously assumed; multiple CFs can target the same PC
+- "Canonically, each Purkinje cell (PC) in the adult cerebellum receives only one climbing fiber (CF) from the inferior olive. Underlying current theories of cerebellar function is the notion that this highly conserved one-to-one relationship renders Purkinje dendrites into a single computational compartment. However, we discovered that multiple primary dendrites are a near-universal morphological feature in humans." (Abstract)
+- h/t SciTechDaily article: https://scitechdaily.com/rewriting-textbooks-scientists-discover-unexpected-complexity-of-cerebellar-connections/?expand_article=1
+
 [The nematode worm _C. elegans_ chooses between bacterial foods as if maximizing economic utility](https://doi.org/10.7554/eLife.69779) #kat23 (2023)
 
 "... the neural mechanisms of value assignments, and how choices are directed by them, remain obscure. ... we found that _C. elegans_ food choices fulfill the necessary and sufficient conditions for utility maximization, indicating that nematodes behave as if they maintain, and attempt to maximize, an underlying representation of subjective value. ... subjective values in _C. elegans_ are learned, a process we find requires intact dopamine signaling. Differential responses of ... neurons to foods ... are amplified by prior consumption of these foods, suggesting that these neurons may be part of a value-assignment system." (Abstract)
