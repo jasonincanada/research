@@ -19,7 +19,7 @@
 
 ### Chx10-PPN neurons hold movement with a pause-and-play pattern
 
-- This whole section is fascinating. Question: Does PPN activation induce a stereotyped kinematic response or does it truly halt the motor plan in place until the activation ceases?
+- This whole section is fascinating. Question: Does PPN activation induce a stereotyped kinematic response or does it truly halt the motor plan in place wherever it was upon activation?
 - EEG recordings of limb muscles showed no "new" activity; instead "... the flexor–extensor and left–right alternating pattern observed during walk and trot was paused and kept on hold maintaining a given combination through the stimulation. Both the coordination of activity between muscles and the joint positions during the pause remained constant once the animal adopted its arrest position." p. 5
 - the "arrest has a ‘context-dependent’ pattern, where the muscle activity during arrest reflects the position of the limbs at the time of movement interruption." p. 5
 - "By plotting all [40] trials together ... we confirmed that Chx10-PPN neurons can pause locomotion at virtually any position, covering the entire range of possible values of left–right limb displacement for forelimbs and hindlimbs." p. 5
@@ -38,7 +38,7 @@
 
 ![[gon23 fig e7a - breathing prolonged onset.png]]
 
-**Figure E7D** Respiratory trace during a 20s prolonged activation. "Mice first exhibit apnea for up to ~3.5 seconds but resume slow breathing afterwards ensuring survival."
+**Figure E7A** Respiratory trace during a 20s prolonged activation. "Mice first exhibit apnea for up to ~3.5 seconds but resume slow breathing afterwards ensuring survival."
 
 ## Discussion
 
