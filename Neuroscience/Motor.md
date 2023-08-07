@@ -1,3 +1,51 @@
+[Pedunculopontine Chx10+ neurons control global motor arrest in mice](https://doi.org/10.1038/s41593-023-01396-3) #gon23 (2023)
+
+"The neuronal circuits mediating defensive global motor arrest (for example, freezing) are located in the lower brainstem and are activated by neuronal pathways that include the amygdala and the ventral periaqueductal gray as core components." p. 1
+
+- Pedunculopontine nucleus (**PPN**) divides into rostral part receiving inputs mostly from basal ganglia, and caudal part receiving broad somatosensory inputs
+- located in upper pons/isthmus, mainly glutamatergic, cholinergic, GABAergic neurons, each with a density gradient along rostrocaudal axis
+- researchers found a rostral glutamatergic subpopulation whose activation causes arrest of all ongoing motor activity and near cessation of breathing, with robust resumability of paused motor plan after offset
+- a subpopulation of glutamatergic PPNs is [Chx10⁺](https://www.ncbi.nlm.nih.gov/gene/12677), denser in the rostral half
+
+## Results
+
+- "... unilateral photoactivation (blue light, 40 Hz, 1 s) of Chx10-PPN neurons reliably and abruptly halted locomotion in every trial from all mice", 40 total trials over 8 mice. [video](https://static-content.springer.com/esm/art%3A10.1038%2Fs41593-023-01396-3/MediaObjects/41593_2023_1396_MOESM3_ESM.mp4)
+
+![[gon23 fig 2b - velocity during ppn activation.png]]
+**Figure 2B** The Chx10-PPN-evoked pause occurred in 100% of trials
+
+- average latency of onset ~110ms, average latency to resume movement after light offset ~150ms
+- "... Chx10-PPN neurons play a role in motor control as their activation reliably leads to global motor arrest, while their ablation reduces the amount of naturally occurring arrest events." p. 4
+
+### Chx10-PPN neurons hold movement with a pause-and-play pattern
+
+- This whole section is fascinating. Question: Does PPN activation induce a stereotyped kinematic response or does it truly halt the motor plan in place until the activation ceases?
+- EEG recordings of limb muscles showed no "new" activity; instead "... the flexor–extensor and left–right alternating pattern observed during walk and trot was paused and kept on hold maintaining a given combination through the stimulation. Both the coordination of activity between muscles and the joint positions during the pause remained constant once the animal adopted its arrest position." p. 5
+- the "arrest has a ‘context-dependent’ pattern, where the muscle activity during arrest reflects the position of the limbs at the time of movement interruption." p. 5
+- "By plotting all [40] trials together ... we confirmed that Chx10-PPN neurons can pause locomotion at virtually any position, covering the entire range of possible values of left–right limb displacement for forelimbs and hindlimbs." p. 5
+
+![[gon23 fig e5c - no stereotyped kinematics.png]]
+
+**Figure E5C** The pause doesn't start a special kinematic response to "get the mouse into place" but halts it wherever it is, shown in this figure as a uniform scattering of straight lines across the y axis during activation (instead of bunched up somewhere). Shown is the graph for forelimbs; the hindlimbs graph looks the same
+
+"Next, we assessed how the left–right alternation continued once mice resumed locomotion. We found that if the flat line that represents the arrest was virtually cut out of the trace, after light offset the step cycle continued with the expected rhythmic pattern regardless of the left–right coordination pattern during arrest. ... after light offset, mice resumed locomotion by continuing from the same posture they paused, and finished the step cycle with the expected coordination pattern. We called this pattern ‘pause-and-play’ because during the Chx10-PPN-evoked pause the nervous system appeared to keep a memory of the movement, until it released and continued its intended course of action." p. 5
+
+### Apnea and a reduction in heart rate accompany the motor arrest
+
+![[gon23 fig 4d - apnea and bradycardia.png]]
+
+**Figure 4D** The pause evokes a clear reduction in respiratory rate and a more subtle reduction in heart rate. The light is applied for 3s in this figure compared to 1s in the previous figures
+
+![[gon23 fig e7a - breathing prolonged onset.png]]
+
+**Figure E7D** Respiratory trace during a 20s prolonged activation. "Mice first exhibit apnea for up to ~3.5 seconds but resume slow breathing afterwards ensuring survival."
+
+## Discussion
+
+"The present study has uncovered a brainstem command evoked upon activation of Chx10+ neurons in the PPN that mediates a unique type of global motor arrest. The global motor arrest is accompanied by apnea and a reduction in heart rate. The distinctive feature of the Chx10-PPN-evoked global motor arrest is a fast onset and offset and a pause-and-play pattern." p. 11
+
+---
+
 [Imagining the way forward: A review of contemporary motor imagery theory](https://doi.org/10.3389/fnhum.2022.1033493) #hur22 (2022)
 
 **Motor imagery**: the mental rehearsal of physical action without actually moving
