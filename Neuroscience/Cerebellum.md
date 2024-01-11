@@ -67,7 +67,7 @@ $$\mathbf{m} = \Theta(J\mathbf{c} - \theta)$$
 ## Methods
 
 Recurrent interactions in compression layer can be modeled with a differential equation:
-$$\tau_c \mathbf{c} = -\mathbf{c} + G^{rec} \mathbf{c} + G^{FF}x$$
+$$\tau_c \dot{\mathbf{c}} = -\mathbf{c} + G^{rec} \mathbf{c} + G^{FF}x$$
 
 Authors assume $\tau_c$ is much smaller than the input-varying timescale to focus on steady-state dynamics (p. 13):
 $$\mathbf{c} = G^{rec}\mathbf{c} + G^{FF}\mathbf{x} \implies (I - G^{rec})^{-1}G^{FF}\mathbf{x} =: G^{eff}\mathbf{x} $$
