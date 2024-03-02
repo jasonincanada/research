@@ -1,3 +1,32 @@
+[Mapping dysfunctional circuits in the frontal cortex using deep brain stimulation](https://doi.org/10.1038/s41593-024-01570-1) #hol24 (2024)
+
+- striatum considered a primary input structure to basal ganglia
+- subthalamic nucleus (STN) recently recognized as second direct input
+- STN receives input from entire frontal cortex
+- study focuses on four different disorders via deep-brain stimulation of the STN:
+    - Parkinson’s disease (PD)
+    - dystonia (DYT)
+    - obsessive-compulsive disorder (OCD)
+    - Tourette’s syndrome (TS)
+
+![[hol24 fig 3 - disorder sweet spots.png]]
+**Figure 3** Topography of disorder-specific stimulation "sweet spots". Upper object is left STN in template space, lower are sweet spot peaks projected onto STN surface
+
+"Dysfunctional networks primarily interconnected the STN with sensorimotor and cerebellar cortices in DYT while involving M1 and SMAs in TS, premotor and supplementary motor areas in PD and ventromedial prefrontal, anterior cingulate, dorsolateral prefrontal and orbitofrontal cortices in OCD." p. 2
+
+![[hol24 fig 4a - streamlines.png]]
+**Figure 4a** Sweet-spot streamlines correlated with clinical outcomes (DYT, PD, TS, OCD)
+
+![[hol24 fig 5a - therapeutic networks.png]]
+**Figure 5a** Therapeutic networks via Fiber Filtering
+
+"... we reprogrammed two individual patients ... with the intention of maximizing engagement of stimulation volumes with the respective streamline model. The first case was a 67-year-old male patient with 9 years into an akinetic-rigid type PD ... Three months post-operatively, his score of 35 on the UPDRS-III under DBS OFF improved to 14 points (60% reduction) under clinical DBS ON ..." p. 10
+
+"The second reprogramming patient ... was a 21-year-old female with severe, treatment-resistant OCD characterized by obsessions about food and water intake along with compulsions involving ingestion events and skin picking. Implantation ... led to an improvement of six points (17%) on the Y-BOCS, from 35 points (pre-surgical baseline) to 29 points post-operatively, under clinical stimulation parameters. One month after streamline-based reprogramming, this score further reduced to 22 points (37% reduction)." p. 10
+
+"... we surgically implanted a pair of subthalamic electrodes for treatment of a 32-year-old male, who had suffered from refractory OCD since the age of 18 years. ... Only 4 weeks after surgery, the patient, as well as his caregivers, reported a marked improvement of symptoms that had been notable within 1 d after switching on the DBS system. The Y-BOCS score had improved to six points, from a pre-surgical baseline of 26 points (77% reduction)." p. 10
+
+
 [Climbing fiber multi-innervation of mouse Purkinje dendrites with arborization common to human](https://doi.org/10.1126/science.adi1024) #bus23 (2023) #paywall
 
 - Ratio of climbing fiber (CF) to Purkinje cell (PC) is not one-to-one in humans as previously assumed; multiple CFs can target the same PC
@@ -36,6 +65,22 @@
 "... we show that the end of the first postnatal week marks a salient step in the anatomical and functional development of the CA1 region. Indeed, within 2 days (P8–10), the link between CA1 principal cells’ activity and self-triggered movements is inverted and neurons are preferentially active during immobility periods. ... In this way, CA1 circuits start detaching from external inputs. Given the importance of local dynamics for hippocampal function and cortical circuits operation in general, this is likely to be a critical general step in the proper maturation of cognitive circuits." p. 12
 
 [Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](https://doi.org/10.3389/fncom.2017.00048) #rei17 (2017)
+
+"We developed a mathematical framework to analyze both the structural and the functional topology of the network, integrating local and global descriptions, enabling us to establish a clear relationship between them." p. 2
+
+- structural graph - all synapses
+- functional graph - subgraph of structural graph active during a time bin
+
+"We found a remarkably high number and variety of highdimensional directed cliques and cavities, which had not been seen before in neural networks, either biological or artificial, and in far greater numbers than those found in various null models of directed networks." p. 2
+
+"When we simulated microcircuit activity in response to sensory stimuli, we observed that pairwise correlations in neuronal activity increased with the number and dimension of the directed cliques to which a pair of neurons belongs, indicating that the hierarchical structure of the network shapes a hierarchy of correlated activity." p. 2
+
+## Results
+
+"The large number of simplices relative to the number of neurons in the microcircuit implies that each neuron belongs to many directed simplices. Indeed, when we counted the number of simplices to which each neuron belongs across dimensions, we observed a long-tailed distribution such that a neuron belongs on average to thousands of simplices." p. 5
+
+
+
 
 [Monkey plays Pac-Man with compositional strategies and hierarchical decision-making](https://doi.org/10.7554/eLife.74500) (2022)
 
