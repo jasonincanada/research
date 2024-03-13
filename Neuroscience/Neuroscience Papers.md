@@ -1,3 +1,9 @@
+[Single neurons in the thalamus and subthalamic nucleus process cardiac and respiratory signals in humans](https://doi.org/10.1073/pnas.2316365121) #fal24 (2024)
+
+"... Here, we took advantage of intraoperative microelectrode recordings in patients undergoing surgery for deep brain stimulation (DBS) to investigate the activity of single neurons related to cardiac and respiratory functions in three subcortical regions: ventral intermedius nucleus (Vim) and ventral caudalis nucleus (Vc) of the thalamus, and subthalamic nucleus (STN). ... the activity of a large portion of the recorded neurons (about 70%) was modulated by either the heartbeat, the cardiac inter-beat interval, or the respiration. ... A substantial proportion of these visceral neurons (30%) was responsive to more than one of the tested signals, ..." (Abstract)
+
+h/t https://neurosciencenews.com/heart-brain-breath-25749/
+
 [Mapping dysfunctional circuits in the frontal cortex using deep brain stimulation](https://doi.org/10.1038/s41593-024-01570-1) #hol24 (2024)
 
 - striatum considered a primary input structure to basal ganglia
