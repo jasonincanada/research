@@ -1,3 +1,21 @@
+[Computer programmers show distinct, expertise-dependent brain responses to violations in form and meaning when reading code](https://doi.org/10.1038/s41598-024-56090-6) #kuo24 (2024)
+
+"... the N400—a negative deflection in the event-related potential (ERP) that peaks approximately 400 ms after stimulus onset—has been shown to be sensitive to factors that influence the accessibility of a stimulus’s meaning, or semantics, from memory (e.g., word frequency, semantic congruity, and semantic predictability). Meanwhile, the P600—a positive deflection that peaks approximately 600 ms after stimulus onset—has been shown to be sensitive to structural violations, or syntax (e.g., subject-verb agreement violations or word order violations)." p. 2
+
+"This research was designed to answer two questions: (1) Do the P600 and N400 ERP components index sensitivity to form and meaning when programmers comprehend lines of code incrementally? and (2) Does sensitivity to form change as a function of programming proficiency?" p. 3
+
+![[kuo24 fig 3 - group erp.png]]
+**Figure 3** Event-related potential (ERP) waveforms. Y axis is inverted; negative voltages are up
+
+![[kuo24 fig 5 - experts vs novices.png]]
+**Figure 5** Midline central electrode for experts vs novices
+
+### Discussion
+
+"... our data suggest that when skilled programmers read lines of code, they use information about both statement-level form and token-level meaning to incrementally update their mental representation of what the code is trying to accomplish, much like readers of a natural language use information about grammatical structure and word-level semantics to understand what a sentence means. In our experiment, this was reflected by the distinct N400 and P600 effects exhibited by programmers to semantic and syntactic manipulations of code, respectively." p. 5
+
+"Furthermore, results from this study suggest that as programmers gain expertise in a particular programming language, their brain responses increasingly reflect sensitivity to rule-based knowledge in their online comprehension processes. This progression, termed “grammaticalization” in natural language learning, is also observed with increasing proficiency in second natural language acquisition." p. 5
+
 [Programming experience associated with neural efficiency during figural reasoning](https://doi.org/10.1038/s41598-020-70360-z) #hel20 (2020)
 
 - study tested programmers vs. non-programmers on three types of reasoning tests:
