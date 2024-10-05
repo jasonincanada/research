@@ -1,5 +1,7 @@
 [Neural mechanisms of parasite-induced summiting behavior in ‘zombie’ _Drosophila_](https://doi.org/10.7554/eLife.85410) #ely23 (2023)
 
+See [[Fruit Fly]]
+
 Summit disease:
 - frequently seen behavior manipulation in parasitized insects
 - "... induced by diverse parasites, ranging from viruses to fungi to trematodes, and affects a broad range of insect species, including ants, beetles, crickets, caterpillars, and flies."
