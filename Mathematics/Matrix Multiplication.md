@@ -24,6 +24,11 @@ h/t https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engine
 
 [Matrix Multiplication Using Only Addition](https://doi.org/10.48550/arXiv.2307.01415) #cus23 (2023) #preprint 
 
+![[cus23 fig 1 - algorithm outline.png]]
+**Figure 1** Algorithm outline
+
+---
+
 [Discovering faster matrix multiplication algorithms with reinforcement learning](https://doi.org/10.1038/s41586-022-05172-4) #faw22 (2022)
 
 - using machine learning to discover matrix multiplication algorithms that are more efficient than human-devised algos
