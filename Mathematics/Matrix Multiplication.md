@@ -1,3 +1,27 @@
+[Addition is All You Need for Energy-efficient Language Models](https://doi.org/10.48550/arXiv.2410.00907) #luo4 (2024) #preprint 
+
+### Regular floating point multiplication:
+
+$$\text{Mul}(x, y) = (1 + x_m) \cdot 2^{x_e} \cdot (1 + y_m) \cdot 2^{y_e} = (1 + x_m + y_m + x_m \cdot y_m) \cdot 2^{x_e + y_e}$$
+
+"The $O(m^2)$ mantissa multiplication operation is the complexity bottleneck of this calculation. We remove this operation and introduce a new multiplication algorithm that processes mantissas with a computational complexity of $O(m)$:" p. 3
+
+### $\mathcal{L}$-Mul
+$$\mathcal{L}\text{-Mul}(x, y) = \left(1 + x_m + y_m + 2^{-l(m)}\right) \cdot 2^{x_e + y_e}, \quad l(m) = 
+\begin{cases} 
+m & \text{if } m \leq 3, \\
+3 & \text{if } m = 4, \\
+4 & \text{if } m > 4.
+\end{cases}
+$$
+
+![[luo24 fig 2 - fp mul vs l-mul.png]]
+**Figure 2** Comparing regular floating-point multiplication and $\mathcal{L}$-Mul
+
+h/t https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+
+---
+
 [Matrix Multiplication Using Only Addition](https://doi.org/10.48550/arXiv.2307.01415) #cus23 (2023) #preprint 
 
 [Discovering faster matrix multiplication algorithms with reinforcement learning](https://doi.org/10.1038/s41586-022-05172-4) #faw22 (2022)
