@@ -1,4 +1,8 @@
 
+[A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode](https://doi.org/10.1080/00029890.2025.2460966) #wil25 (2025)
+
+Videos: https://www.youtube.com/watch?v=oIHd3zDDDCE
+
 [Five or Ten New Proofs of the Pythagorean Theorem](https://doi.org/10.1080/00029890.2024.2370240) #jac24 (2024)
 
 It's here!  And they added **four further** proofs!
